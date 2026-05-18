@@ -28,7 +28,7 @@
 
 使用 root 权限运行一键安装/启动脚本
 ```bash
-bash <(curl -sL [https://raw.githubusercontent.com/starshine369/net-limit/main/limit.sh)
+bash <(curl -sL https://raw.githubusercontent.com/starshine369/net-limit/main/limit.sh)
 ```
 
 
