@@ -30,6 +30,10 @@
 ```bash
 bash <(curl -sL https://raw.githubusercontent.com/starshine369/net-limit/main/limit.sh)
 ```
+国内运行
+```bash
+wget -O limit.sh https://ghproxy.net/https://raw.githubusercontent.com/starshine369/net-limit/main/limit.sh && bash limit.sh
+```
 
 
 > **💡 终极便捷提示**：第一次通过一键命令运行后，脚本会自动将自身注册到系统中。以后您在任何目录下，直接在终端输入唯一的快捷命令 **`net-limit`**，即可瞬间呼出限速管理面板！
